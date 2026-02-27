@@ -1,5 +1,7 @@
 # Network
 
+**Grade:** G
+
 ## Course Overview
 
 This course focused on network technology, covering configuration of routers and switches for improved network security, building networks from scratch, and identifying and addressing vulnerabilities in both Linux and Windows environments.
