@@ -1,5 +1,7 @@
 # Network Security
 
+(2025-08-11 → 2025-09-19)
+
 **Grade:** VG
 
 ## Course Overview
