@@ -1,6 +1,6 @@
 # IT Security Portfolio
 
-A collection of my studies, labs, and learnings throughout my IT Security Specialist education.
+A collection of my studies, labs, and learnings throughout my IT Security Specialist education (2024 - 2026)
 
 ## About Me
 
