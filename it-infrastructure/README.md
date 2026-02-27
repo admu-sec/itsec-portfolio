@@ -1,5 +1,7 @@
 # IT Infrastructure
 
+(2024-09-23 → 2024-11-01)
+
 **Grade:** VG
 
 ## Course Overview
