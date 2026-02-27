@@ -25,7 +25,7 @@ My name is Adam, an IT Security Specialist student from Sweden with a focus on d
 
 ## Skills
 
-- **Defensive Security:** Wazuh, Elasticsearch, Splunk, KQL
+- **Defensive Security:** Wazuh, Elasticsearch, KQL
 - **Offensive Security:** Metasploit, Nmap, Hydra, Hashcat, Aircrack-ng
 - **Scripting:** PowerShell, Bash
 - **Operating Systems:** Windows, Linux, Kali Linux
