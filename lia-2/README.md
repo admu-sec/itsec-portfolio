@@ -1,6 +1,8 @@
 # LIA 2 - Internship (2026-01-12 → 2026-05-01)
 
-**Grade:** 
+(2026-01-12 → 2026-05-01)
+
+**Grade:** Ongoing.
 
 ## Overview
 
