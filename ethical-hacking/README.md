@@ -1,5 +1,7 @@
 # Ethical Hacking
 
+(2025-09-22 → 2025-10-24)
+
 **Grade:** VG
 
 ## Course Overview
