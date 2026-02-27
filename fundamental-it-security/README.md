@@ -1,5 +1,7 @@
 # Fundamental IT Security
 
+(2024-11-04 → 2024-12-13)
+
 **Grade:** G
 
 ## Course Overview
