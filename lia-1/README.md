@@ -1,5 +1,7 @@
 # LIA 1 - Internship
 
+(2025-03-17 → 2025-06-06)
+
 **Grade:** VG
 
 ## Overview
