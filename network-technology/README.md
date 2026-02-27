@@ -1,5 +1,7 @@
 # Network Technology
 
+(2024-08-26 → 2024-09-20)
+
 **Grade:** G
 
 ## Course Overview
