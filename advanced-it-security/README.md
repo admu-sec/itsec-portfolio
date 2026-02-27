@@ -1,4 +1,4 @@
-# Advanced IT Security
+# Advanced IT Security (2025-10-27 → 2025-11-28)
 
 **Grade:** VG
 
