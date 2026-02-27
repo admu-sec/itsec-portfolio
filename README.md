@@ -18,10 +18,11 @@ My name is Adam, an IT Security Specialist student from Sweden with a focus on d
 | [IT Security Linux, Unix, Mac](it-security-linux-unix-mac/) | Security in Linux, Unix and macOS environments |
 | [IT Security Windows](it-security-windows/) | Security in Windows environments |
 | [IT-Infrastructure](it-infrastructure/) | Network and system infrastructure |
-| [LIA 1](lia-1/) | Internship 1 |
-| [LIA 2](lia-2/) | Internship 2 |
 | [Network](network/) | Networking fundamentals |
 | [Network Security](network-security/) | Securing network environments |
+| [LIA 1](lia-1/) | Internship 1 |
+| [LIA 2](lia-2/) | Internship 2 |
+| [Degree Project](degree-project/) | Wazuh SIEM implementation and configuration |
 
 ## Skills
 
