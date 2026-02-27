@@ -1,5 +1,7 @@
 # IT Security Linux, Unix, Mac
 
+(2025-02-17 → 2025-03-14)
+
 **Grade:** VG
 
 ## Course Overview
