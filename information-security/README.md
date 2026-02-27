@@ -1,5 +1,7 @@
 # Information Security
 
+(2024-12-16 → 2025-01-17)
+
 **Grade:** G
 
 ## Course Overview
