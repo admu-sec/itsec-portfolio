@@ -8,7 +8,7 @@ My name is Adam, an IT Security Specialist student from Sweden with a focus on d
 
 ## Courses
 
-| Course | Description |
+| Courses | Description |
 |--------|-------------|
 | [Advanced IT-Security](advanced-it-security/) | Advanced concepts in IT security |
 | [Cloud Security](cloud-security/) | Security in cloud environments |
