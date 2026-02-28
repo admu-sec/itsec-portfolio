@@ -6,8 +6,8 @@
 
 ## Research Question
 
-"How can an open source-based SIEM solution be configured and calibrated to optimize detection capability?"
+
 
 ## Overview
 
-*To be updated when the degree project is completed.*
+*To be updated when the degree project is completed. All I can say for now that it is SIEM-related.*
