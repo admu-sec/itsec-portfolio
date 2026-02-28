@@ -4,7 +4,7 @@ An overview of courses, practical labs and key learnings from my IT Security Spe
 
 ## About Me
 
-My name is Adam, an IT Security Specialist student from Sweden with a focus on defensive security, SIEM and threat detection, while also exploring offensive security.
+My name is Adam, an IT Security Specialist student from Sweden with a focus on defensive security, SIEM and threat detection, while also exploring offensive security. Currently in my second internship working with Wazuh SIEM, while completing my degree project on open-source SIEM solutions.
 
 ## Courses
 
