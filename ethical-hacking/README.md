@@ -15,6 +15,7 @@ This course focused on web infrastructure security, covering how to identify, ex
 - **Web Hacking** – Practical hacking exercises targeting web servers.
 - **Man-in-the-Middle Attacks** – Understanding and preventing MITM attacks.
 - **Monkeypatching** – Runtime modification of code and security implications.
+- **Privilege Escalation** – Techniques for gaining elevated access in web environments.
 - **Logging & Incident Reporting** – Monitoring and responding to security incidents.
 - **Defensive Techniques** – Securing and hardening web environments against attacks.
 
