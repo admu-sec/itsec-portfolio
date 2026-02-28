@@ -17,11 +17,13 @@ This course focused on laws, regulations and methods within information security
 - **Risk Analysis** – Identifying and assessing threats and risks in information security.
 - **Security Policies** – Establishing information security policies and incident reporting plans.
 - **Compliance** – Analyzing IT infrastructure compliance with applicable laws and regulations.
+- **Compliance Frameworks** – PCI-DSS, HIPAA and CCPA data protection regulations.
 
 ## Key Topics
 
 - Information security laws and regulations.
 - ISO 27000, GDPR, IEC-62443 and NIST 800-53.
+- PCI-DSS, HIPAA and CCPA compliance.
 - Risk analysis and threat assessment.
 - Security policy development.
 - Incident reporting plans.
