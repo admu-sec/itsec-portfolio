@@ -7,7 +7,9 @@
 ## Research Question
 
 
+> 🎓 Degree project: Optimizing detection capability in open-source SIEM solutions.
+
 
 ## Overview
 
-*To be updated when the degree project is completed. All I can say for now that it is SIEM-related.*
+*To be updated when the degree project is completed.*
