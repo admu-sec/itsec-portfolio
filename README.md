@@ -18,7 +18,7 @@ My name is Adam, an IT Security Specialist student from Sweden with a focus on d
 | [IT Security Linux, Unix, Mac](it-security-linux-unix-mac/) | Hardening and securing Linux-based systems, user management and access control. |
 | [IT Security Windows](it-security-windows/) | Windows hardening, Active Directory security and Group Policy management. |
 | [IT-Infrastructure](it-infrastructure/) | Server administration, virtualization with VMware and network infrastructure. |
-| [Network](network-technology/) | Subnetting, routing protocols, TCP/IP and network architecture. |
+| [Network Technology](network-technology/) | Subnetting, routing protocols, TCP/IP and network architecture. |
 | [Network Security](network-security/) | Firewall configuration, IDS/IPS and network traffic analysis. |
 | [LIA 1](lia-1/) | Internship 1 – Active Directory administration, GPO implementation and Wazuh SIEM configuration |
 | [LIA 2](lia-2/) | Internship 2 – Active Directory hardening and Wazuh SIEM tuning with custom detection rules mapped to MITRE ATT&CK. |
